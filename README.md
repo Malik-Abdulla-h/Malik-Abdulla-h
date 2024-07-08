@@ -1,7 +1,7 @@
 [![MasterHead](https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?cs=srgb&dl=pexels-negative-space-414171.jpg&fm=jpg)](https://malik-abdulla-h.io)
 <h1 align="center">Hi 👋, I'm Malik Muhammad Abdullah</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="malikabdullah" /> </p>
 
