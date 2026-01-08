@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="malikabdullah" /> </p>
 
-- 🔭 I’m currently working on **discord clone, fyp**
+- 🔭 I’m currently working on **Python Stacks and NEXT.js, fyp**
 
 - 🌱 I’m currently learning **Django**
 
